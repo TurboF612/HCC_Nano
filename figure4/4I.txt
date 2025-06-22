@@ -1,0 +1,7 @@
+Original size	155
+Size (after restricting to dataset)	110
+Enrichment Score (ES)	0.42350522
+Normalized Enrichment Score (NES)	1.8024709
+Nominal p-value	0
+FDR q-value	0.016046897
+FWER p-Value	0.111

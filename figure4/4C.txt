@@ -1,0 +1,15 @@
+GO_P Term ID	GO_P Term Desc	Rich Ratio	Pvalue
+GO:0042254	ribosome biogenesis	0.394230769230769	1.070046E-17
+GO:0006397	mRNA processing	0.18134715025906697	1.8461459999999998E-9
+GO:0042273	ribosomal large subunit biogenesis	0.48387096774193505	8.333216E-9
+GO:0070498	interleukin-1-mediated signaling pathway	0.24444444444444396	5.930407E-6
+GO:0033209	tumor necrosis factor-mediated signaling pathway	0.20155038759689897	3.6377509999999996E-5
+GO:1900034	regulation of cellular response to heat	0.22972972972973	1.5133290000000002E-4
+GO:0050852	T cell receptor signaling pathway	0.165680473372781	6.147018E-4
+GO:2000001	regulation of DNA damage checkpoint	0.5	8.343228E-4
+GO:0051028	mRNA transport	0.178571428571429	0.001388995
+GO:0034605	cellular response to heat	0.22	0.003096497
+GO:0002218	activation of innate immune response	0.258064516129032	0.003969956
+GO:0042493	response to drug	0.125748502994012	0.008876869
+GO:0000018	regulation of DNA recombination	0.5	0.01056055
+GO:0000165	MAPK cascade	0.124203821656051	0.01373289

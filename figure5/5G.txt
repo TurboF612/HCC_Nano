@@ -1,0 +1,3 @@
+CTR					RFA+G1					RFA+G2					RFA+G3					RFA+G4				
+25	26	28	32	33	35	38	39	39	40	36	37	38	39	39	40	43	45	47	50	50	50	50	50	50
+Dead	Dead	Dead	Dead	Dead	Dead	Dead	Dead	Dead	Dead	Dead	Dead	Dead	Dead	Dead	Dead	Dead	Dead	Dead	Live	Live	Live	Live	Live	Live
